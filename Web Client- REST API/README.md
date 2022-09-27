@@ -1,6 +1,3 @@
-Pentru realizarea temei am adaptat scheletul de cod pus la dispozitie in laboratorul 10,
-(fisierele: buffer.c, buffer.h, helpers.c, helpers.h, request.c si request.h).
-
 Pentru parsare am folosit biblioteca "parson", tema fiind implementata in C.
 
 In fisierul client.c:
